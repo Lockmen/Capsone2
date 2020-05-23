@@ -125,7 +125,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12510}
     - Class: 114
-      Script: {instanceID: 13176}
+      Script: {instanceID: 13178}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -232,37 +232,37 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12554}
     - Class: 114
-      Script: {instanceID: 12612}
+      Script: {instanceID: 12560}
     - Class: 114
-      Script: {instanceID: 12630}
+      Script: {instanceID: 12614}
     - Class: 114
-      Script: {instanceID: 12732}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 12754}
+      Script: {instanceID: 12734}
     - Class: 114
-      Script: {instanceID: 12794}
+      Script: {instanceID: 12756}
     - Class: 114
-      Script: {instanceID: 12824}
+      Script: {instanceID: 12796}
     - Class: 114
-      Script: {instanceID: 12838}
+      Script: {instanceID: 12826}
     - Class: 114
-      Script: {instanceID: 13018}
+      Script: {instanceID: 12840}
     - Class: 114
-      Script: {instanceID: 13052}
+      Script: {instanceID: 13020}
     - Class: 114
-      Script: {instanceID: 13062}
+      Script: {instanceID: 13054}
     - Class: 114
-      Script: {instanceID: 13102}
+      Script: {instanceID: 13064}
     - Class: 114
-      Script: {instanceID: 13176}
+      Script: {instanceID: 13104}
     - Class: 114
-      Script: {instanceID: 13186}
+      Script: {instanceID: 13178}
     - Class: 114
-      Script: {instanceID: 13238}
+      Script: {instanceID: 13188}
     - Class: 114
-      Script: {instanceID: 21788}
+      Script: {instanceID: 13240}
     - Class: 114
-      Script: {instanceID: 176460}
+      Script: {instanceID: 41000}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -325,7 +325,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12794}
+      Script: {instanceID: 12796}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -432,15 +432,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12510}
     - Class: 114
-      Script: {instanceID: 12816}
+      Script: {instanceID: 12818}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13176}
+      Script: {instanceID: 13178}
     - Class: 114
-      Script: {instanceID: 13228}
+      Script: {instanceID: 13230}
     - Class: 114
-      Script: {instanceID: 13238}
+      Script: {instanceID: 13240}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -2022,6 +2022,12 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
+      Hash: 7cf69aec9cdba88483308e0363146a9e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScaleController
+  - hash:
+      serializedVersion: 2
       Hash: 48804c7edfd2998cdab1bf456d8dbfd0
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
@@ -2500,16 +2506,10 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 7cf69aec9cdba88483308e0363146a9e
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ScaleController
   platform: 13
   scenePathNames:
   - Assets/Scenes/Start.unity
   - Assets/Scenes/CharacterSelection.unity
   - Assets/Scenes/Game.unity
   - Assets/Scenes/MapGenerator.unity
-  playerPath: C:/Users/jim60/Desktop/ui/CapStone-Project-master/New Unity Project/capstone.apk
+  playerPath: C:/Users/jim60/Desktop/Capsone21-master/Capsone2-master/2020_03_30/aaaa.apk
